@@ -36,7 +36,6 @@ rateBTN.forEach(function (BTN, i) {
 //--------------------------------------------------------------------------------
 let rateResult = document.getElementsByClassName('clicked');
 
-rateBTNcontainer.insertAdjacentHTML("beforeend", rateResult);
 
 //--------------------------------------------------------------------------------
 // submit button action
